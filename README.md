@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am currently learning how to code but only know a small amount of HTML. 
+
+I am currently learning 
+- JavaScript
+- CSS
+
 <!--
 **exxon47/exxon47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
